@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo $(dirname $BASH_SOURCE)
+BASEDIR=`echo $(dirname $BASH_SOURCE) | awk -F'/' '{print $NF}'`
+PYTHON_VER=`/usr/bin/python3 -V | cut -f 2 -d ' '`
+PROMPT="${BASEDIR}-${PYTHON_VER}"
+# Setup the virtual environment
+echo "Setting up the virtual environment...."
+/usr/bin/env python3 -m venv --upgrade-deps --prompt ${PROMPT} env
+
+echo "Switch to the virtual environment..."
+source env/bin/activate
+
+echo "Updating PIP..."
+/usr/bin/env pip install -U pip
+echo "Installing required packages..."
+/usr/bin/env pip install -r reqs-dev.txt -r reqs-prod.txt
+
+echo "Setting up pre-commit..."
+pre-commit install --install-hooks
+pre-commit autoupdate

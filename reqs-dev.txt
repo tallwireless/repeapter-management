@@ -1,0 +1,6 @@
+# These are requirements just for development and for repo management. They
+# aren't required for production runs.
+wheel
+pre-commit
+black
+flake8
