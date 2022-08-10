@@ -1,0 +1,4 @@
+"Location","Name","Frequency","Duplex","Offset","Tone","rToneFreq","cToneFreq","DtcsCode","DtcsPolarity","Mode","TStep","Comment"
+,"Simplex",146.52,"-",0,,,,,,"FM",,
+,"Simplex",446,"-",0,,,,,,,,
+,"DEFCON",146.58,"-",0,,,,,,,,

@@ -1,77 +1,23 @@
-Freq,Input,Offset,Tone,Location,ST/PR,County,Call,Use,Miles,Bearing
-444.30000,449.3,+5.00000,131.8,"Camden ",NJ,Camden,WB3EHB,OPEN,1.8,E
-448.02500,443.025,-5.00000,131.8,"Camden ",NJ,Camden,N2HQX,OPEN,1.8,E
-447.77500,442.775,-5.00000,146.2,"Gloucester City ",NJ,Camden,NJ2GC,OPEN,2.2,SE
-145.27000,144.67,-0.60000,,"Philadelphia ",PA,Philadelphia,W3PVI,OPEN,2.9,NNW
-145.41000,144.81,-0.60000,127.3,"Philadelphia ",PA,Philadelphia,KD3WT,OPEN,2.9,NNW
-440.15000,445.15,+5.00000,100.0,"Philadelphia ",PA,Philadelphia,K3CX,OPEN,2.9,NNW
-442.40000,447.4,+5.00000,131.8,"Philadelphia ",PA,Philadelphia,N3KZ,OPEN,2.9,NNW
-442.55000,447.55,+5.00000,91.5,"Philadelphia Roxborough Towers",PA,Philadelphia,W3SBE,OPEN,2.9,NNW
-442.80000,447.8,+5.00000,131.8,"Philadelphia ",PA,Philadelphia,K3TU,OPEN,2.9,NNW
-446.87500,441.875,-5.00000,131.8,"Philadelphia ",PA,Philadelphia,KD3WT,OPEN,2.9,NNW
-146.68500,146.085,-0.60000,146.2,"Philadelphia University of Pennsylvania",PA,Philadelphia,WM3PEN,OPEN,3.5,NW
-449.97500,444.975,-5.00000,131.8,"Yeadon ",PA,Delaware,N3UXQ,OPEN,5.8,WNW
-147.22500,147.825,+0.60000,192.8,"Runnemede ",NJ,Camden,WA2WUN,OPEN,6.0,SE
-147.36000,147.96,+0.60000,131.8,"Darby Mercy Fitzgerald Hospital",PA,Delaware,W3UER,OPEN,6.4,W
-444.05000,449.05,+5.00000,131.8,"Darby Mercy Fitzgerald Hospital",PA,Delaware,W3UER,OPEN,6.4,W
-145.37000,144.77,-0.60000,91.5,"Cherry Hill ",NJ,Camden,NJ2CH,OPEN,6.4,E
-444.90000,449.9,+5.00000,131.8,"Cherry Hill ",NJ,Camden,K3RJC,OPEN,6.4,E
-147.12000,147.72,+0.60000,123.0,"Woodbury ",NJ,Gloucester,KC2DUX,OPEN,8.8,SSE
-440.65000,445.65,+5.00000,,"Philadelphia Roxborough",PA,Philadelphia,WR3IRS,OPEN,10.5,NNW
-146.89500,146.295,-0.60000,91.5,"Voorhees ",NJ,Camden,K2EOC,OPEN,10.8,SE
-441.70000,446.7,+5.00000,74.4,"Roxborough ",PA,Philadelphia,W3WAN,OPEN,11.0,NNW
-147.03000,147.63,+0.60000,91.5,"Philadelphia ",PA,Philadelphia,W3QV,OPEN,11.2,NNW
-444.80000,449.8,+5.00000,,"Roxborough ",PA,Philadelphia,W3QV,OPEN,11.2,NNW
-447.62500,442.625,-5.00000,,"Wyndmoor Whitemarsh",PA,Montgomery,K3PDR,OPEN,12.0,N
-146.86500,146.265,-0.60000,131.8,"Pine Hill ",NJ,Camden,K2UK,OPEN,12.1,SE
-442.35000,447.35,+5.00000,131.8,"Pine Hill ",NJ,Camden,K2UK,OPEN,12.1,SE
-444.70000,449.7,+5.00000,131.8,"Chester ",PA,Delaware,KM3W,OPEN,12.3,WSW
-442.10000,447.1,+5.00000,131.8,"Pitman ",NJ,Gloucester,W2MMD,OPEN,12.4,S
-146.94000,146.34,-0.60000,131.8,"Media ",PA,Delaware,W3AEC,OPEN,12.7,W
-441.20000,446.2,+5.00000,,"Newtown Square ",PA,Delaware,WR3IRS,OPEN,14.3,WNW
-147.19500,147.795,+0.60000,100.0,"Newtown Square ",PA,Delaware,W3DI,OPEN,14.3,WNW
-442.25000,447.25,+5.00000,131.8,"Newtown Square ",PA,Delaware,W3DI,OPEN,14.3,WNW
-442.60000,447.6,+5.00000,131.8,"Newtown Square ",PA,Delaware,WA3NNA,OPEN,14.3,WNW
-147.06000,147.66,+0.60000,131.8,"Newtown Square ",PA,Delaware,WB3JOE,OPEN,14.3,WNW
-146.71500,146.115,-0.60000,131.8,"Meadowbrook ",PA,Montgomery,WA3UTI,OPEN,14.3,NNE
-443.15000,448.15,+5.00000,131.8,"Meadowbrook ",PA,Montgomery,WA3UTI,OPEN,14.3,NNE
-441.15000,446.15,+5.00000,88.5,"Abington Township Abington Hospital",PA,Montgomery,K3DN,OPEN,14.4,N
-147.18000,147.78,+0.60000,131.8,"Pitman ",NJ,Gloucester,W2MMD,OPEN,14.6,S
-146.94000,146.34,-0.60000,131.8,"Media Fair Acres Geriatric Center",PA,Delaware,W3KG,OPEN,15.8,W
-446.77500,441.775,-5.00000,88.5,"Boothwyn ",PA,Delaware,W3KG,OPEN,16.5,WSW
-146.92500,146.325,-0.60000,131.8,"Willingboro ",NJ,Burlington,WB2YGO,OPEN,16.9,E
-442.05000,447.05,+5.00000,118.8,"Willingboro ",NJ,Burlington,WB2YGO,OPEN,16.9,E
-444.20000,449.2,+5.00000,131.8,"Falls Township / Oxford Valley ",PA,Bucks,W3BXW,OPEN,16.9,NE
-145.29000,144.69,-0.60000,91.5,"Medford ",NJ,Burlington,K2AA,OPEN,17.3,ESE
-448.67500,443.675,-5.00000,131.8,"Norristown ",PA,Montgomery,N3CB,OPEN,17.7,NW
-146.97000,146.37,-0.60000,131.8,"Feasterville-Trevose Lower Southampton Township",PA,Bucks,W3PHL,OPEN,18.1,NNE
-147.16500,147.765,+0.60000,162.2,"Horsham ",PA,Montgomery,K3JJO,OPEN,18.4,N
-444.55000,449.55,+5.00000,100.0,"Horsham Horsham Township",PA,Montgomery,WA3TSW,OPEN,18.4,N
-145.39000,144.79,-0.60000,91.5,"Monroe Township ",NJ,Gloucester,K2DX,OPEN,18.9,SSE
-146.79000,146.19,-0.60000,131.8,"Southampton ",PA,Bucks,W3SK,OPEN,18.9,NNE
-448.22500,443.225,-5.00000,131.8,"Southampton ",PA,Bucks,W3SK,OPEN,18.9,NNE
-448.32500,443.325,-5.00000,127.3,"Westampton ",NJ,Burlington,KC2QVT,OPEN,19.0,E
-147.15000,147.75,+0.60000,127.3,"Westampton ",NJ,Burlington,KC2QVT,OPEN,19.0,E
-145.13000,144.53,-0.60000,131.8,"Paoli ",PA,Chester,WB3JOE,OPEN,20.1,WNW
-147.09000,147.69,+0.60000,131.8,"Warminster Township Building",PA,Bucks,K3DN,OPEN,20.4,N
-147.34500,147.945,+0.60000,127.3,"Waterford Works ",NJ,Camden,WA3BXW,OPEN,20.6,SE
-442.30000,447.3,+5.00000,131.8,"Waterford Works ",NJ,Camden,KA2PFL,OPEN,20.6,SE
-443.30000,448.3,+5.00000,,"Waterford Works ",NJ,Camden,WR3IRS,OPEN,20.6,SE
-146.73000,146.13,-0.60000,131.8,"Wilmington ",DE,New Castle,W3DRA,OPEN,20.7,WSW
-448.37500,443.375,-5.00000,131.8,"Wilmington ",DE,New Castle,W3DRA,OPEN,20.7,WSW
-145.15000,144.55,-0.60000,91.5,"Winslow ",NJ,Camden,K2AX,OPEN,20.8,SE
-146.76000,146.16,-0.60000,131.8,"Valley Forge Schuylkill Township",PA,Chester,W3PHL,OPEN,21.3,NW
-443.80000,448.8,+5.00000,131.8,"Valley Forge Schuylkill Township",PA,Chester,N3KZ,OPEN,21.3,NW
-146.83500,146.235,-0.60000,88.5,"Eagleville ",PA,Montgomery,AA3E,OPEN,21.9,NW
-449.92500,444.925,-5.00000,100.0,"Eagleville ",PA,Montgomery,K3CX,OPEN,21.9,NW
-146.79000,147.39,+0.60000,131.8,"Richboro ",PA,Bucks,N3TS,OPEN,22.2,NNE
-147.00000,147.6,+0.60000,131.8,"Warrington ",PA,Bucks,WA3ZID,OPEN,23.3,N
-445.33125,440.33125,-5.00000,127.3,"Tabernacle Tabernacle Emergency Services Building",NJ,Burlington,KC2QVT,OPEN,23.8,ESE
-448.42500,443.425,-5.00000,,"Wilmington ",DE,New Castle,WR3IRS,OPEN,23.9,WSW
-146.95500,146.355,-0.60000,131.8,"Wilmington ",DE,New Castle,WA3UYJ,OPEN,24.0,WSW
-444.40000,449.4,+5.00000,100.0,"Wilmington Wilmington Hospital",DE,New Castle,W3CER,OPEN,24.1,WSW
-147.30000,147.9,+0.60000,131.8,"Fairless Hills Falls Township",PA,Bucks,W3BXW,OPEN,24.1,NE
-447.12500,442.125,-5.00000,,"Fairless Hills Falls Township",PA,Bucks,W3BXW,OPEN,24.1,NE
-146.94000,146.34,-0.60000,131.8,"West Chester ",PA,Chester,W3PHL,OPEN,24.4,W
-446.52500,441.525,-5.00000,100.0,"West Chester ",PA,Chester,W3EOC,OPEN,24.4,W
-440.20000,445.2,+5.00000,,"Charlestown ",PA,Chester,WR3IRS,OPEN,24.8,WNW
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Comment
+1,"W3PVI",145.27000,-,0.60000,,88.5,88.5,23,NN,DIG,5,"Philadelphia",
+2,"KD3WT",145.41000,-,0.60000,Tone,127.3,88.5,023,NN,FM,5,"Philadelphia",
+3,"K3CX",440.15000,+,5.00000,Tone,100.0,88.5,023,NN,FM,5,"Philadelphia",
+4,"N3KZ",442.40000,+,5.00000,Tone,131.8,131.8,023,NN,FM,5,"Philadelphia",
+5,"W3SBE",442.55000,+,5.00000,Tone,91.5,91.5,023,NN,FM,5,"Philadelphia, Roxborough Towers",
+6,"K3TU",442.80000,+,5.00000,Tone,131.8,88.5,023,NN,FM,5,"Philadelphia",
+7,"KD3WT",446.87500,-,5.00000,Tone,131.8,88.5,023,NN,Auto,5,"Philadelphia",
+8,"WM3PEN",146.68500,-,0.60000,Tone,146.2,146.2,023,NN,Auto,5,"Philadelphia, University of Pennsylvania",
+9,"WB3EHB",444.30000,+,5.00000,Tone,131.8,88.5,023,NN,FM,5,"Camden",
+10,"N2HQX",448.02500,-,5.00000,Tone,131.8,88.5,023,NN,FM,5,"Camden",
+11,"N3UXQ",449.97500,-,5.00000,Tone,131.8,131.8,023,NN,FM,5,"Yeadon",
+12,"NJ2GC",447.77500,-,5.00000,Tone,146.2,88.5,023,NN,Auto,5,"Gloucester City",
+13,"W3UER",147.36000,+,0.60000,Tone,131.8,131.8,023,NN,FM,5,"Darby, Mercy Fitzgerald Hospital",
+14,"W3UER",444.05000,+,5.00000,Tone,131.8,131.8,023,NN,FM,5,"Darby, Mercy Fitzgerald Hospital",
+15,"NJ2CH",145.37000,-,0.60000,Tone,91.5,91.5,023,NN,Auto,5,"Cherry Hill",
+16,"K3RJC",444.90000,+,5.00000,Tone,131.8,88.5,023,NN,Auto,5,"Cherry Hill",
+17,"WR3IRS",440.65000,+,5.00000,,88.5,88.5,23,NN,DIG,5,"Philadelphia, Roxborough",
+18,"W3WAN",441.70000,+,5.00000,Tone,74.4,74.4,023,NN,FM,5,"Roxborough",
+19,"W3QV",147.03000,+,0.60000,Tone,91.5,91.5,023,NN,FM,5,"Philadelphia",
+20,"W3QV",444.80000,+,5.00000,,88.5,88.5,023,NN,Auto,5,"Roxborough",
+21,"WA2WUN",147.22500,+,0.60000,Tone,192.8,192.8,023,NN,Auto,5,"Runnemede",
+22,"K3PDR",447.62500,-,5.00000,,88.5,88.5,23,NN,DIG,5,"Wyndmoor, Whitemarsh",

@@ -1,24 +1,24 @@
-Freq,Input,Offset,Tone,Location,ST/PR,County,Call,Use,Miles,Bearing
-445.70000,440.7,-5.00000,,"Las Vegas ",NV,Clark,KB6XN,OPEN,0.0,N
-448.07500,443.075,-5.00000,127.3,"Las Vegas The D Hotel",NV,Clark,WN9ANF,OPEN,0.2,W
-449.47500,444.475,-5.00000,114.8,"Las Vegas ",NV,Clark,KK7AV,OPEN,0.4,NNE
-446.70000,441.7,-5.00000,118.8,"Las Vegas  strip",NV,Clark,N7ARR,OPEN,0.4,NNE
-146.94000,146.34,-0.60000,100.0,"Las Vegas Westgate Hotel and Casino",NV,Clark,K7UGE,OPEN,2.7,SSW
-145.46000,144.86,-0.60000,100.0,"North Las Vegas ",NV,Clark,KE7ZHN,OPEN,3.1,NNW
-449.45000,444.45,-5.00000,100.0,"Las Vegas ",NV,Clark,WO3B,OPEN,4.2,SSW
-147.27000,147.87,+0.60000,100.0,"Las Vegas Sunrise Hospital",NV,Clark,KC7DB,OPEN,4.6,NE
-449.60000,444.6,-5.00000,107.2,"Las Vegas ",NV,Clark,KE7CCH,OPEN,4.7,SE
-447.60000,442.6,-5.00000,,"Las Vegas ",NV,Clark,K7AC,CLOSED,5.0,SSW
-448.25000,443.25,-5.00000,,"Las Vegas  QTH",NV,Clark,N8NDI,OPEN,5.2,WNW
-448.67500,443.675,-5.00000,77.0,"Las Vegas QTH",NV,Clark,N8DBM,OPEN,5.2,WNW
-448.77500,443.775,-5.00000,,"North Las Vegas ",NV,Clark,WH6CYB,CLOSED,5.6,N
-446.87500,441.875,-5.00000,114.8,"Las Vegas Sunrise manor",NV,Clark,N7RMK,OPEN,5.9,E
-147.00000,146.4,-0.60000,123.0,"Las Vegas QTH",NV,Clark,N7ARR,OPEN,6.8,ESE
-447.30000,442.3,-5.00000,100.0,"Las Vegas Mountain View Hospital",NV,Clark,KG7SS,OPEN,6.8,WNW
-446.45000,441.45,-5.00000,,"Las Vegas Frenchman Mtn",NV,Clark,N7ARR,OPEN,7.9,ESE
-448.45000,443.45,-5.00000,,"Las Vegas Southern Hills Hospital",NV,Clark,WB9STH,OPEN,8.0,NW
-445.97500,440.975,-5.00000,107.2,"North Las Vegas Aliante Casino and Resort",NV,Clark,N4NJJ,PRIVATE,8.7,NNW
-445.87500,440.875,-5.00000,100.0,"Las Vegas ",NV,Clark,W7JCA,OPEN,8.8,WNW
-448.90000,443.9,-5.00000,100.0,"Las Vegas Sunrise Mountain",NV,Clark,K7IZA,OPEN,9.9,E
-449.72500,444.725,-5.00000,97.4,"Las Vegas  Sunrise Mountain",NV,Clark,W7AOR,OPEN,9.9,E
-449.67500,444.675,-5.00000,192.8,"Las Vegas  Sunrise Mountain",NV,Clark,WA7CYC,OPEN,9.9,E
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Comment
+1,"KB6XN",445.70000,-,5.00000,,88.5,88.5,23,NN,DIG,5,"Las Vegas",
+2,"WN9ANF",448.07500,-,5.00000,Tone,127.3,88.5,023,NN,FM,5,"Las Vegas, The D Hotel",
+3,"KK7AV",449.47500,-,5.00000,Tone,114.8,88.5,023,NN,FM,5,"Las Vegas",
+4,"N7ARR",446.70000,-,5.00000,Tone,118.8,88.5,023,NN,FM,5,"Las Vegas,  strip",
+5,"K7UGE",146.94000,-,0.60000,Tone,100.0,88.5,023,NN,FM,5,"Las Vegas, Westgate Hotel and Casino",
+6,"KE7ZHN",145.46000,-,0.60000,Tone,100.0,88.5,023,NN,FM,5,"North Las Vegas",
+7,"WO3B",449.45000,-,5.00000,Tone,100.0,88.5,023,NN,FM,5,"Las Vegas",
+8,"KC7DB",147.27000,+,0.60000,Tone,100.0,88.5,023,NN,FM,5,"Las Vegas, Sunrise Hospital",
+9,"KE7CCH",449.60000,-,5.00000,Tone,107.2,107.2,023,NN,FM,5,"Las Vegas",
+10,"K7AC",447.60000,-,5.00000,,88.5,88.5,023,NN,FM,5,"Las Vegas",
+11,"N8NDI",448.25000,-,5.00000,,88.5,88.5,023,NN,FM,5,"Las Vegas,  QTH",
+12,"N8DBM",448.67500,-,5.00000,Tone,77.0,88.5,023,NN,FM,5,"Las Vegas, QTH",
+13,"WH6CYB",448.77500,-,5.00000,Tone,77.0,88.5,023,NN,FM,5,"North Las Vegas",
+14,"N7RMK",446.87500,-,5.00000,Tone,114.8,114.8,023,NN,FM,5,"Las Vegas, Sunrise manor",
+15,"N7ARR",147.00000,-,0.60000,Tone,123.0,88.5,023,NN,FM,5,"Las Vegas, QTH",
+16,"KG7SS",447.30000,-,5.00000,Tone,100.0,100.0,23,NN,DIG,5,"Las Vegas, Mountain View Hospital",
+17,"N7ARR",446.45000,-,5.00000,,88.5,88.5,23,NN,DIG,5,"Las Vegas, Frenchman Mtn",
+18,"WB9STH",448.45000,-,5.00000,,88.5,88.5,023,NN,FM,5,"Las Vegas, Southern Hills Hospital",
+19,"N4NJJ",445.97500,-,5.00000,Tone,107.2,107.2,023,NN,FM,5,"North Las Vegas, Aliante Casino and Resort",
+20,"W7JCA",445.87500,-,5.00000,Tone,100.0,100.0,023,NN,Auto,5,"Las Vegas",
+21,"K7IZA",448.90000,-,5.00000,Tone,100.0,88.5,023,NN,FM,5,"Las Vegas, Sunrise Mountain",
+22,"W7AOR",449.72500,-,5.00000,Tone,97.4,88.5,023,NN,FM,5,"Las Vegas,  Sunrise Mountain",
+23,"WA7CYC",449.67500,-,5.00000,Tone,192.8,88.5,023,NN,FM,5,"Las Vegas,  Sunrise Mountain",

@@ -1,0 +1,3 @@
+"No.","Zone Name","Zone Channel Member","A Channel","B Channel"
+"1","Simple","Simplex A|Simplex B|DEFCON Simplex","Simplex A","Simplex B"
+"2","DEFCON","Simplex A|Simplex B|DEFCON Simplex","DEFCON Simplex","Simplex A"
