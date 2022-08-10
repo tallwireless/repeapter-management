@@ -1,0 +1,31 @@
+common:
+  file: lists/common.csv
+
+zones:
+  FRS:
+    file: lists/frs.csv
+  Philadelphia:
+    file: lists/philadelphia.csv
+    location:
+      radius: 10m
+      search: Philadelphia, PA
+  Las-Vegas:
+    file: lists/las-vegas.csv
+    location:
+      radius: 10m
+      search: Las Vegas, NV
+  San-Jose:
+    file: lists/san-Jose.csv
+    location:
+        radius: 10m
+        search: San Jose, CA
+  San-Fransico:
+    file: lists/san-francisco.csv
+    location:
+      radius: 10m
+      search: San Francisco, CA
+  Chicago:
+    file: lists/chicago.csv
+    location:
+      radius: 10m
+      search: Chicago, IL
